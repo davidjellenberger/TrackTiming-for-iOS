@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TrackTimingII/RunnerTableViewCell.swift"
+            timestampString = "507879758.036607"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "RunnerTableViewCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TrackTimingII.RunnerTableViewCell.init (style : __C.UITableViewCellStyle, reuseIdentifier : Swift.Optional&lt;Swift.String&gt;) -&gt; TrackTimingII.RunnerTableViewCell"
+                  moduleName = "TrackTimingII"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/davidellenberger/LocalDocuments/TrackTimingII/TrackTimingII/RunnerTableViewCell.swift"
+                  timestampString = "507880189.428558"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "70">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TrackTimingII.RunnerTableViewCell.__allocating_init (style : __C.UITableViewCellStyle, reuseIdentifier : Swift.Optional&lt;Swift.String&gt;) -&gt; TrackTimingII.RunnerTableViewCell"
+                  moduleName = "TrackTimingII"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/davidellenberger/LocalDocuments/TrackTimingII/TrackTimingII/RunnerTableViewCell.swift"
+                  timestampString = "507880189.431194"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TrackTimingII.RunnerTableViewCell.__allocating_init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;TrackTimingII.RunnerTableViewCell&gt;"
+                  moduleName = "TrackTimingII"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/davidellenberger/LocalDocuments/TrackTimingII/TrackTimingII/RunnerTableViewCell.swift"
+                  timestampString = "507880189.433478"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TrackTimingII.RunnerTableViewCell.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;TrackTimingII.RunnerTableViewCell&gt;"
+                  moduleName = "TrackTimingII"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/davidellenberger/LocalDocuments/TrackTimingII/TrackTimingII/RunnerTableViewCell.swift"
+                  timestampString = "507880189.435556"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TrackTimingII/ViewController.swift"
+            timestampString = "509302899.746494"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "323"
+            endingLineNumber = "323"
+            landmarkName = "tableView(_:didSelectRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
